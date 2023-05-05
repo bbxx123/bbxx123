@@ -8,7 +8,7 @@
 
 - 🧿 4433工作室正在招贤纳士，欢迎前端、后端、UI等各种技术宅加入我们！
 - 💬 商务QQ：2963068865
-- 🌐 工作室网站：<a target="_blank" href="chaichaisocute.top">看看00后会有什么奇思妙想？🤨</a>
+- 🌐 工作室网站：<a target="_blank" href="http://chaichaisocute.top/">看看00后会有什么奇思妙想？🤨</a>
 
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg"></a>
 <a href="https://github.com/4-433"><img src="https://img.shields.io/badge/4433-4433Studio-blue"></a>
@@ -23,7 +23,7 @@
 - 💻 一个富有想象力的web前端开发者。
 - 🎨 喜欢花里胡哨的前端开发，二刺螈浓度极高。
 - 🧡 为爱发电第一名，公司要我996不可能，为爱发电我能997。
-- ☕ 尼古拉斯酒桶，家训是！再来二斤！。
+- ☕ 尼古拉斯酒桶，家训是！再来二斤！
 - 🎮 明日方舟高度沉迷者（艾丽妮女儿真好看 嘿嘿嘿🥰~
 - 📫 联系方式：2787922490
 
