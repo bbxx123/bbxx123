@@ -4,19 +4,26 @@
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangsantx&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" alt="logo" height="137px" align="right" /> -->
 
-<!-- <img height="137px" align="right" src="https://github-readme-stats.vercel.app/api?username=zhangsantx&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /> -->
-
 <img height="137px" align="right" src="https://github-readme-stats.vercel.app/api?username=zhangsantx&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 - 🧿 4433工作室正在招贤纳士，欢迎前端、后端、UI等各种技术宅加入我们！
-- 💬 QQ：2787922490
+- 💬 商务QQ：2963068865
 - 🌐 工作室网站：<a target="_blank" href="chaichaisocute.top">看看00后会有什么奇思妙想？🤨</a>
 
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg"></a>
+<a href="https://github.com/4-433"><img src="https://img.shields.io/badge/4433-4433Studio-blue"></a>
+<a href="https://baike.baidu.com/item/%E8%89%BE%E4%B8%BD%E5%A6%AE/60840012"><img src="https://img.shields.io/badge/Irene-%E6%88%91%E6%98%AF%E8%89%BE%E4%B8%BD%E5%A6%AE%E7%9A%84%E7%8B%97-pink"></a>
 
 ## 
 
 <!-- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=bbxx123&text_color=adbac7&hide_border=true&hide_title=true&langs_count=10&bg_color=2d333b&count_private=true&layout=compact&include_all_commits=true&card_width=900&card_height=150)](https://github.com/autofelix?tab=repositories) -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbxx123&hide_border=true&hide_title=true&langs_count=10&bg_color=0,EC6C6C,D783FF,73FDFF,73FA79,FFD479&count_private=true&layout=compact&include_all_commits=true&card_width=900&line_height=21&theme=graywhite" alt="logo" height="150px" /> 
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbxx123&hide_border=true&hide_title=true&langs_count=10&bg_color=0,EC6C6C,D783FF,73FDFF,73FA79,FFD479&count_private=true&layout=compact&include_all_commits=true&card_width=900&line_height=21&theme=graywhite" alt="logo" height="150px" /> -->
+
+- 💻 一个富有想象力的web前端开发者。
+- 🎨 喜欢花里胡哨的前端开发，二刺螈浓度极高。
+- 🧡 为爱发电第一名，公司要我996不可能，为爱发电我能997。
+- ☕ 尼古拉斯酒桶，家训是！再来二斤！。
+- 🎮 明日方舟高度沉迷者（艾丽妮女儿真好看 嘿嘿嘿🥰~
+- 📫 联系方式：2787922490
 
