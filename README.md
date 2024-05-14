@@ -12,7 +12,8 @@
 
 - 🧿 4433工作室正在招贤纳士，欢迎前端、后端、UI等各种技术宅加入我们！
 - 💬 商务QQ：2963068865
-- 🌐 工作室网站：<a target="_blank" href="http://chaichaisocute.top/">看看00后会有什么奇思妙想？🤨</a>
+- 🧀 个人博客：<a target="_blank" href="http://chaichaisocute.top/">可愛いね～🍅</a>
+- 🌐 工作室网站：<a target="_blank" href="http://cqucc4433.top/">看看00后会有什么奇思妙想？🤨</a>
 - 🥨 工作室社区：<br>
      - QA社区： <a target="_blank" href="https://answer.cqucc4433.top/">4433-QA社区</a> <br>
      - 聊天社区： <a target="_blank" href="https://cqucc4433.top/">4433-聊天室</a>
