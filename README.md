@@ -30,7 +30,9 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbxx123&hide_border=true&hide_title=true&langs_count=10&bg_color=0,EC6C6C,D783FF,73FDFF,73FA79,FFD479&count_private=true&layout=compact&include_all_commits=true&card_width=900&line_height=21&theme=graywhite" alt="logo" height="150px" /> -->
 
 
-
+- 🧂adachi-bot开发者
+- 🍣BNS chaichai-bot作者
+- 🥪天之都服务器开发者
 - 💻 一个富有想象力的web前端开发者。
 - 🎨 喜欢花里胡哨的前端开发，二刺螈浓度极高。
 - 🧡 为爱发电第一名，公司要我996不可能，为爱发电我能997。
