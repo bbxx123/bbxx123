@@ -8,7 +8,7 @@
 
 <!-- <img height="327px" align="right" src="https://4433studio.oss-cn-hangzhou.aliyuncs.com/blog/C71986EA41DEF4A23361AA494861F0C5.png"> -->
 <!-- <img height="327px" align="right" src="https://4433studio.oss-cn-hangzhou.aliyuncs.com/blog/(JAP7_PR~R(1PTGY41GGUW7.jpg"> -->
-<img height="327px" align="right" src="./images/ailian.jpg">
+<img height="327px" align="right" src="./images/ailian.png">
 
 - 🧿 4433工作室正在招贤纳士，欢迎前端、后端、UI等各种技术宅加入我们！
 - 💬 商务QQ：2963068865
