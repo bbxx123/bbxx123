@@ -8,7 +8,7 @@
 
 <!-- <img height="327px" align="right" src="https://4433studio.oss-cn-hangzhou.aliyuncs.com/blog/C71986EA41DEF4A23361AA494861F0C5.png"> -->
 <!-- <img height="327px" align="right" src="https://4433studio.oss-cn-hangzhou.aliyuncs.com/blog/(JAP7_PR~R(1PTGY41GGUW7.jpg"> -->
-<img height="327px" align="right" src="./images/xiongxiong.png">
+<img height="327px" align="right" src="./images/ailian.jpg">
 
 - 🧿 4433工作室正在招贤纳士，欢迎前端、后端、UI等各种技术宅加入我们！
 - 💬 商务QQ：2963068865
@@ -21,7 +21,10 @@
 
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg"></a>
 <a href="https://github.com/4-433"><img src="https://img.shields.io/badge/4433-4433Studio-blue"></a>
-<a href="https://baike.baidu.com/item/%E8%89%BE%E4%B8%BD%E5%A6%AE/60840012"><img src="https://img.shields.io/badge/Irene-%E6%88%91%E6%98%AF%E8%89%BE%E4%B8%BD%E5%A6%AE%E7%9A%84%E7%8B%97-pink"></a>
+<!-- <a href="https://baike.baidu.com/item/%E8%89%BE%E4%B8%BD%E5%A6%AE/60840012"><img src="https://img.shields.io/badge/Irene-%E6%88%91%E6%98%AF%E8%89%BE%E4%B8%BD%E5%A6%AE%E7%9A%84%E7%8B%97-pink"></a> -->
+<a href="https://baike.baidu.com/item/%E8%89%BE%E8%8E%B2%C2%B7%E4%B9%94/63730042?structureClickId=63730042&structureId=82a3cad5f8330c14658fe750&structureItemId=1275b5b5cda93c50007f16d2&lemmaFrom=starMapContent_star&fromModule=starMap_content&lemmaIdFrom=59933659"><img src="https://img.shields.io/badge/%E8%89%BE%E8%8E%B2-%E6%88%91%E6%98%AF%E8%89%BE%E8%8E%B2%E7%9A%84%E7%8B%97-skyblue"></a>
+
+
 
 ## 
 
@@ -37,6 +40,6 @@
 - 🎨 喜欢花里胡哨的前端开发，二刺螈浓度极高。
 - 🧡 为爱发电第一名，公司要我996不可能，为爱发电我能997。
 - ☕ 尼古拉斯酒桶，家训是！再来二斤！
-- 🎮 战双高度沉迷者（玩偶熊女儿真好看 嘿嘿嘿🥰~
+- 🎮 绝区零高度沉迷者（艾莲真好看 嘿嘿嘿🥰~
 - 📫 联系方式：2787922490
 
