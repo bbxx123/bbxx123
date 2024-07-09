@@ -17,11 +17,11 @@
      - QA社区： <a target="_blank" href="https://answer.cqucc4433.top/">4433-QA社区</a> <br>
      - 聊天社区： <a target="_blank" href="https://cqucc4433.top/">4433-聊天室</a>
 
-
+<a href="https://baike.baidu.com/item/%E8%89%BE%E8%8E%B2%C2%B7%E4%B9%94/63730042?structureClickId=63730042&structureId=82a3cad5f8330c14658fe750&structureItemId=1275b5b5cda93c50007f16d2&lemmaFrom=starMapContent_star&fromModule=starMap_content&lemmaIdFrom=59933659"><img src="https://img.shields.io/badge/%E8%89%BE%E8%8E%B2-%E6%88%91%E6%98%AF%E8%89%BE%E8%8E%B2%E7%9A%84%E7%8B%97-skyblue"></a>
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg"></a>
 <a href="https://github.com/4-433"><img src="https://img.shields.io/badge/4433-4433Studio-blue"></a>
 <!-- <a href="https://baike.baidu.com/item/%E8%89%BE%E4%B8%BD%E5%A6%AE/60840012"><img src="https://img.shields.io/badge/Irene-%E6%88%91%E6%98%AF%E8%89%BE%E4%B8%BD%E5%A6%AE%E7%9A%84%E7%8B%97-pink"></a> -->
-<a href="https://baike.baidu.com/item/%E8%89%BE%E8%8E%B2%C2%B7%E4%B9%94/63730042?structureClickId=63730042&structureId=82a3cad5f8330c14658fe750&structureItemId=1275b5b5cda93c50007f16d2&lemmaFrom=starMapContent_star&fromModule=starMap_content&lemmaIdFrom=59933659"><img src="https://img.shields.io/badge/%E8%89%BE%E8%8E%B2-%E6%88%91%E6%98%AF%E8%89%BE%E8%8E%B2%E7%9A%84%E7%8B%97-skyblue"></a>
+
 
 
 ## 
@@ -29,7 +29,7 @@
 <!-- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=bbxx123&text_color=adbac7&hide_border=true&hide_title=true&langs_count=10&bg_color=2d333b&count_private=true&layout=compact&include_all_commits=true&card_width=900&card_height=150)](https://github.com/autofelix?tab=repositories) -->
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbxx123&hide_border=true&hide_title=true&langs_count=10&bg_color=0,EC6C6C,D783FF,73FDFF,73FA79,FFD479&count_private=true&layout=compact&include_all_commits=true&card_width=900&line_height=21&theme=graywhite" alt="logo" height="150px" /> -->
-<img height="100%" width="60%" align="right" src="./images/ailian2.png">
+<img height="100%" width="50%" align="right" src="./images/ailian2.png">
 
 
 - 🧂adachi-bot开发者
